@@ -1,0 +1,6 @@
+__pycache__
+Arcface_files/ArcFace_r100_ms1mv3_backbone.pth
+Arcface_files/Arcface_saved_real_img_features
+
+# TODO .... kaj pa arcface saved real img features ! jih uporabimo? 
+# TODO kaj pa datasets?
