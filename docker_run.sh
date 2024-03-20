@@ -26,8 +26,7 @@ set -e
 
 rest=$@
 
-#IMAGE="${IMAGE:-sg2ada:latest}"
-IMAGE="${IMAGE:-semantic_sg2ada:latest}"
+IMAGE="${IMAGE:-sg2ada:latest}"
 
 CONTAINER_ID=$(docker inspect --format="{{.Id}}" ${IMAGE} 2> /dev/null)
 if [[ "${CONTAINER_ID}" ]]; then
