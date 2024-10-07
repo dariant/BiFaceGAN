@@ -1,7 +1,7 @@
 # BiFaceGAN: Bimodal Synthesis and Annotation of Ocular Images 
 
 
-![Teaser image](./docs/BiFaceGAN_pipeline.png)
+![Teaser image](./docs/BiFaceGAN_framework.png)
 
 **BiFaceGAN: Bimodal Face Image Synthesis**<br>
 Darian Tomašević, Peter Peer, Vitomir Štruc<br>
