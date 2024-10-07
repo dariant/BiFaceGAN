@@ -1,13 +1,15 @@
 # BiFaceGAN: Bimodal Synthesis and Annotation of Ocular Images 
 
 
-![Teaser image](./docs/BiFaceGAN_framework.png)
 
 **BiFaceGAN: Bimodal Face Image Synthesis**<br>
 Darian Tomašević, Peter Peer, Vitomir Štruc<br>
 [BiFaceGAN paper](https://link.springer.com/chapter/10.1007/978-981-97-2059-0_11)<br>
 
 Abstract : *Modern face recognition and segmentation systems, like all deep learning approaches, are reliant on large-scale annotated datasets to achieve competitive performance. However, gathering biometric data often raises privacy concerns and presents a labor-intensive and time-consuming task. Researchers are currently also exploring the use of multispectral data to improve existing solutions, limited to the visible spectrum. Unfortunately, the collection of suitable data is even more difficult, especially if aligned images are required. To address the outlined issues, we present a novel synthesis framework, named BiFaceGAN, capable of producing privacy-preserving large-scale synthetic datasets of photorealistic face images, in the visible and the near-infrared spectrum, along with corresponding ground truth pixel-level annotations. The proposed framework leverages an innovative Dual-Branch Style-based Generative Adversarial Network (DB-StyleGAN) to generate per-pixel aligned bimodal images, followed by an ArcFace Privacy Filter (APF) that ensures the removal of privacy-breaching images. Furthermore, we also implement a Semantic Mask Generator (SMG) that produces reference ground truth segmentation masks of the synthetic data, based on the latent representations inside the synthesis model and only a handful of manually labeled examples. We evaluate the quality of generated images and annotations through a series of experiments and analyze the benefits of generating bimodal data with a single network. We also show that privacy-preserving data filtering does not notably degrade the image quality of produced datasets. In addition, we demonstrate that the generated data can be employed to train highly successful deep segmentation models, which can generalize well to other real-world datasets.*
+
+![Teaser image](./docs/BiFaceGAN_framework.jpg)
+
 
 # Release Notes: 
 
