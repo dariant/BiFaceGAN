@@ -100,4 +100,4 @@ If you use code or results from this repository, please cite the following publi
 
 Supported in parts by the Slovenian Research Agency ARRS through the Research Programmes P2-0250(B) "Metrology and Biometric System" and P2--0214 (A) “Computer Vision”, the ARRS Project J2-2501(A) "DeepBeauty" and the ARRS junior researcher program.
 
-<img src="./docs/ARRS_Logo_2016_eng.png" alt="drawing" width="300"/>
+<img src="./docs/ARIS_logo_eng_resized.jpg" alt="drawing" width="600"/>
