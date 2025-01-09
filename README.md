@@ -86,7 +86,14 @@ This work is made available under the [Nvidia Source Code License](https://nvlab
 If you use code or results from this repository, please cite the following publication:
 
 ```
-REFERENCE_TO_BE_ADDED
+@incollection{tomavsevic2024bifacegan,
+  title={{BiFaceGAN}: Bimodal Face Image Synthesis},
+  author={Toma{\v{s}}evi{\'c}, Darian and Peer, Peter and {\v{S}}truc, Vitomir},
+  booktitle={Face Recognition Across the Imaging Spectrum},
+  pages={273--311},
+  year={2024},
+  publisher={Springer}
+}
 ```
 
 ## Acknowledgements
